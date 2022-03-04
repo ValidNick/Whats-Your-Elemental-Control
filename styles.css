@@ -1,0 +1,55 @@
+.quizpage {
+	display: flex;
+	justify-content: center;
+    
+}
+
+.quiz {
+    width: 80%;
+    border: 1px #EE4B2B solid;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #FFD580;
+    
+}
+
+.mainbtn {
+  border-radius: 20px;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.questions {
+    display:none;
+}
+
+.question1 {
+   
+}
+
+.question2 {
+ 
+}
+
+.endbtn {
+    border-radius: 20px;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+    padding: 10px;
+}
+
+.aang,
+.katara,
+.sokka,
+.toph {
+    display: none;
+}
+
+h1 {
+    color: #EE4B2B;
+}
